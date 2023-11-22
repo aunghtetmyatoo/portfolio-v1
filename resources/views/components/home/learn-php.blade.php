@@ -1,17 +1,39 @@
 <x-call-to-action>
-  <x-slot:title>
-    <h4 class="text-white text-base font-semibold mb-2">
-      Check my PHP Developer Roadmap
-    </h4>
-    <h2 class=" text-white font-bold text-3xl sm:text-[38px] leading-tight mb-6 sm:mb-8 lg:mb-0 ">
-      Start Learning <br class="hidden xs:block"/>
-      PHP For FREE
-    </h2>
-  </x-slot>
-    <x-button-link href="https://github.com/thecodeholic/php-developer-roadmap" variant="dark" class="mr-3" target="_blank">
-      View my channel
-    </x-button-link>
-    <x-button-link href="https://youtu.be/r9ndOH0tyfA" variant="red" target="_blank">
-      Watch on YouTube
-    </x-button-link>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg"
+        width="50" height="50" alt="PHP" title="PHP" style="max-width: 100%;">
+    <img src="https://github.com/laravel/art/raw/master/logo-mark/5%20svg/3%20rgb/1%20Full%20Color/laravel-mark-rgb-red.svg"
+        width="50" height="50" alt="Laravel" title="Laravel" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
+        width="50" height="50" alt="HTML5" title="HTML5" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
+        width="50" height="50" alt="CSS3" title="CSS3" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
+        width="50" height="50" alt="Javascript" title="Javascript" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
+        width="50" height="50" alt="Typescript" title="Typescript" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"
+        width="50" height="50" alt="Nodejs" title="Nodejs" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
+        width="50" height="50" alt="React" title="React" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg"
+        width="50" height="50" alt="Nextjs" title="Nextjs" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"
+        width="50" height="50" alt="Tailwindcss" title="Tailwindcss" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg"
+        width="50" height="50" alt="Bootstrap" title="Bootstrap" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg"
+        width="50" height="50" alt="JQuery" title="JQuery" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg"
+        width="50" height="50" alt="MaterialUI" title="MaterialUI" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"
+        width="50" height="50" alt="MySQL" title="MySQL" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"
+        width="50" height="50" alt="MongoDB" title="MongoDB" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
+        width="50" height="50" alt="Git" title="Git" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg"
+        width="50" height="50" alt="Docker" title="Docker" style="max-width: 100%;">
+    <img src="https://camo.githubusercontent.com/13386c184e020bff2d6820d86efd57ac141265d9d3ab56080b282ce6bbbbcab6/68747470733a2f2f6c61726163617374732e636f6d2f696d616765732f746f706963732f69636f6e732f6177732d6c6f676f2e737667"
+        height="38" alt="AWS" title="AWS"
+        data-canonical-src="https://laracasts.com/images/topics/icons/aws-logo.svg" style="max-width: 100%;">
 </x-call-to-action>
