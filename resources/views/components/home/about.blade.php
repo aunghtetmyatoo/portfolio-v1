@@ -15,8 +15,8 @@
                             <ul>
                                 <li class="mb-12 flex items-center">
                                     <div class="flex-shrink-0">
-                                        <img src="{{ url('/img/company1.jpg') }}"
-                                            alt="Company 2 Logo" class="w-16 h-16 rounded-full">
+                                        <img src="{{ url('/img/company1.jpg') }}" alt="Company 1 Logo"
+                                            class="w-16 h-16 rounded-full">
                                     </div>
                                     <div class="ml-12">
                                         <div class="font-semibold">MetaTeam Myanmar Co., Ltd</div>
@@ -26,8 +26,8 @@
                                 </li>
                                 <li class="mb-4 flex items-center">
                                     <div class="flex-shrink-0">
-                                        <img src="{{ url('/img/company2.jpg') }}"
-                                            alt="Company 1 Logo" class="w-16 h-16 rounded-full">
+                                        <img src="{{ url('/img/company2.jpg') }}" alt="Company 2 Logo"
+                                            class="w-16 h-16 rounded-full">
                                     </div>
                                     <div class="ml-12">
                                         <div class="font-semibold">NineComplex Co., Ltd</div>
@@ -45,16 +45,16 @@
                 <div class="mt-10 lg:mt-0">
                     <span class="font-semibold text-lg text-primary mb-2 block">
                         <blockquote class="text-sm text-gray-500 italic py-2 px-3 border-l-4 border-amber-500">
-                            "Everything is achievable with hard work"
+                            while(!(succeeed = try()));
                         </blockquote>
                     </span>
                     <h2 class="font-bold text-3xl sm:text-4xl dark:text-gray-200 mb-8">
                         About Me
                     </h2>
                     <p class="text-base dark:text-gray-400 mb-8">
-                        I have been working as a professional software developer for 10+ years. <br />
-                        During my career I have worked on various types of projects with various technologies,
-                        but very often I feel that I am a junior developer who just started coding. <br />
+                        I'm from Yangon and UCSY fianl year (CDM) student. I have over 2 years experience in developing
+                        web applications using PHP, Laravel and React. I am also
+                        interested in learning new technologies and frameworks.
                     </p>
                 </div>
             </div>
