@@ -21,7 +21,7 @@ $interval = $d1->diff($d2);
                     <ul class="flex flex-wrap items-center">
                         <li>
                             <x-button-link href="{{ url('/cv/AungHtetMyatOo.pdf') }}" variant="primary"
-                                class="rounded-lg">
+                                class="rounded-lg" target="_blank">
                                 My Resume
                             </x-button-link>
                         </li>
