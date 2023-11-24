@@ -22,40 +22,40 @@ class Portfolio extends Component
     {
         $this->items = [
             [
-                'category' => ['Laravel', 'Tailwind.css', 'Vue3'],
-                'title' => 'Full Stack app with Laravel, Tailwindcss and Vue 3',
-                'image' => url('/img/survey.png'),
-                'github' => 'https://github.com/thecodeholic/laravel-vue-survey'
+                'category' => ['Laravel', 'JQuery', 'Bootstrap'],
+                'title' => 'Housing For All Property',
+                'image' => url('/img/project1.png'),
+                'github' => 'https://housingforallproperty.com',
             ],
             [
-                'category' => ['Yii2', 'Bootstrap'],
-                'title' => 'E-commerce website with Yii2',
-                'image' => url('/img/yii2-ecommerce.jpg'),
-                'github' => 'https://github.com/thecodeholic/yii2-ecommerce-website'
+                'category' => ['Laravel', 'Backpack'],
+                'title' => 'MoeHein Gabar Pharmacy',
+                'image' => url('/img/project2.png'),
+                'github' => 'https://moeheingabar.com/admin',
             ],
             [
-                'category' => ['PHP', 'Laravel'],
-                'title' => 'REST API with Laravel 8 and Sanctum',
-                'image' => url('/img/laravel-rest-api.png'),
-                'github' => 'https://github.com/thecodeholic/laravel-image-manipulation-rest-api'
+                'category' => ['Laravel', 'Backpack'],
+                'title' => 'DongFang Pay',
+                'image' => url('/img/project3.png'),
+                'github' => 'https://dfpaymm.com',
             ],
             [
-                'category' => ['PHP'],
-                'title' => 'PHP MVC Framework',
-                'image' => url('/img/php-mvc-framework.png'),
-                'github' => 'https://github.com/thecodeholic/php-mvc-framework'
+                'category' => ['Laravel', 'LiveWire', 'Tailwind'],
+                'title' => 'Movies App',
+                'image' => url('/img/project4.png'),
+                'github' => 'https://movies-ahmo.vercel.app',
             ],
             [
-                'category' => ['Yii2', 'Bootstrap'],
-                'title' => 'YouTube clone with Yii2',
-                'image' => url('/img/yii2-youtube-clone.png'),
-                'github' => 'https://github.com/thecodeholic/Yii2-Youtube-Clone'
+                'category' => ['React'],
+                'title' => 'Covid-19 Tracker',
+                'image' => url('/img/project5.png'),
+                'github' => 'https://covid-19-tracker-ahmo.vercel.app',
             ],
             [
-                'category' => ['Yii2', 'VueJs'],
-                'title' => 'Yii2 + VueJs Notes application',
-                'image' => url('/img/yii2-vue-notes.png'),
-                'github' =>  'https://github.com/thecodeholic/vue.js-yii2-notes'
+                'category' => ['Nextjs', 'React'],
+                'title' => 'Coffee Stores App',
+                'image' => url('/img/project6.png'),
+                'github' =>  'https://coffee-stores-six.vercel.app/',
             ],
         ];
 
