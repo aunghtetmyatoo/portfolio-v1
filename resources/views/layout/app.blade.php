@@ -11,6 +11,7 @@
 
     <link href="{{ asset('/css/app.css') }}" rel="stylesheet">
     <script src="https://apis.google.com/js/platform.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
 </head>
 
 <body class="text-gray-800 dark:text-gray-200 ">
@@ -23,3 +24,15 @@
 </body>
 
 </html>
+
+<script>
+    $(document).ready(function() {
+        $(".nav-item").on("click", function(e) {
+            e.preventDefault();
+            var target = $(this).data("target");
+            $("html, body").animate({
+                scrollTop: $(target).offset().top
+            }, "slow");
+        });
+    });
+</script>
