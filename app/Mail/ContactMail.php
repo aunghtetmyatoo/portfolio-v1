@@ -27,6 +27,7 @@ class ContactMail extends Mailable
      */
     public function build()
     {
-        return $this->subject('Contact mail from thecodeholic.com')->replyTo($this->email)->view('email.contact');
+        return $this->subject('Contact mail from aunghtetmyatoo.com')->view('email.contact');
+        // return $this->subject('Contact mail from aunghtetmyatoo.com')->markdown('email.contact', compact('name', 'email', 'body'));
     }
 }
