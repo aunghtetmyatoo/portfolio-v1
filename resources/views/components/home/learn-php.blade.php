@@ -15,6 +15,8 @@
         width="50" height="50" alt="Nodejs" title="Nodejs" style="max-width: 100%;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
         width="50" height="50" alt="React" title="React" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg"
+        width="50" height="50" alt="Vuejs" title="Vuejs" style="max-width: 100%;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg"
         width="50" height="50" alt="Nextjs" title="Nextjs" style="max-width: 100%;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"
