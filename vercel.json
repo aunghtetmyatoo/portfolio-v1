@@ -18,7 +18,7 @@
   "env": {
     "APP_NAME": "Vercel Laravel",
     "APP_ENV": "production",
-    "APP_KEY": "base64:t3pRRIHrGPfFvnorjaGM9wViFci4LEMfVpShlr0wtQE=",
+    "APP_KEY": "base64:ePaOkY1rVinrAFmu0onNw81KA8qq/ghy7cqB88FX9m8=",
     "APP_DEBUG": "false",
     "APP_URL": "https://aunghtetmyatoo.vercel.app",
     "VERCEL_DEMO_MODE": "true",
