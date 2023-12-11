@@ -1,6 +1,6 @@
 <!-- ====== Hero Section Start -->
 <?php
-$d1 = new DateTime('2021-10-01 00:00:00');
+$d1 = new DateTime('2020-10-01 00:00:00');
 $d2 = now();
 $interval = $d1->diff($d2);
 ?>
@@ -16,7 +16,7 @@ $interval = $d1->diff($d2);
                         I am <span class="rounded-md text-amber-600">Web Developer</span>.
                     </h1>
                     <p class="text-base mb-8 max-w-[520px]">
-                        I am a web developer with {{ $interval->y . '.' . $interval->m }} years of experience. <br />
+                        I am a web developer with {{ $interval->y }}+ years of experience. <br />
                     </p>
                     <ul class="flex flex-wrap items-center">
                         <li>
