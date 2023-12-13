@@ -55,7 +55,19 @@ class Portfolio extends Component
                 'category' => ['Nextjs', 'React'],
                 'title' => 'Coffee Stores App',
                 'image' => url('/img/project6.png'),
-                'github' =>  'https://coffee-stores-six.vercel.app/',
+                'github' =>  'https://coffee-stores-six.vercel.app',
+            ],
+            [
+                'category' => ['Nextjs', 'React', 'TypeScript'],
+                'title' => 'Photo Gallery App',
+                'image' => url('/img/project7.png'),
+                'github' =>  'https://photo-ahmo.vercel.app/gallery',
+            ],
+            [
+                'category' => ['JavaScript'],
+                'title' => 'Road To Japan',
+                'image' => url('/img/project8.png'),
+                'github' =>  'https://road-to-japan.vercel.app',
             ],
         ];
 

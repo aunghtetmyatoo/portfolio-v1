@@ -1,6 +1,6 @@
 <!-- ====== Hero Section Start -->
 <?php
-$d1 = new DateTime('2020-10-01 00:00:00');
+$d1 = new DateTime('2021-10-01 00:00:00');
 $d2 = now();
 $interval = $d1->diff($d2);
 ?>

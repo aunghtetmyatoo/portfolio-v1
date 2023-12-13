@@ -21,7 +21,7 @@
                                     <div class="ml-12">
                                         <div class="font-semibold">MetaTeam Myanmar Co., Ltd</div>
                                         <div>Web Developer</div>
-                                        <div>05/2020 - 10/2021</div>
+                                        <div>05/2021 - 10/2021</div>
                                     </div>
                                 </li>
                                 <li class="mb-4 flex items-center">
@@ -52,7 +52,7 @@
                         About Me
                     </h2>
                     <p class="text-base dark:text-gray-400 mb-8">
-                        I'm from Yangon and UCSY fianl year (CDM) student. I have over 3+ years experience in developing
+                        I'm from Yangon and UCSY fianl year (CDM) student. I have over 2+ years experience in developing
                         web applications using PHP, Laravel and React. I am also
                         interested in learning new technologies and frameworks.
                     </p>
