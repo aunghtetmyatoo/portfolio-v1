@@ -52,7 +52,7 @@
                         About Me
                     </h2>
                     <p class="text-base dark:text-gray-400 mb-8">
-                        I'm from Yangon and UCSY fianl year (CDM) student. I have over 2+ years experience in developing
+                        I'm from Yangon and UCSY fianl year student. I have over 2+ years experience in developing
                         web applications using PHP, Laravel and React. I am also
                         interested in learning new technologies and frameworks.
                     </p>
