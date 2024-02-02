@@ -35,7 +35,7 @@
         width="50" height="50" alt="Git" title="Git" style="max-width: 100%;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg"
         width="50" height="50" alt="Docker" title="Docker" style="max-width: 100%;">
-    <img src="https://camo.githubusercontent.com/13386c184e020bff2d6820d86efd57ac141265d9d3ab56080b282ce6bbbbcab6/68747470733a2f2f6c61726163617374732e636f6d2f696d616765732f746f706963732f69636f6e732f6177732d6c6f676f2e737667"
+    <img src="https://camo.githubusercontent.com/3b56763c8e6b95e8386ae64323c0db9d4370702e75650a214903193372125004/68747470733a2f2f6c61726163617374732e636f6d2f696d616765732f746f706963732f69636f6e732f6177732d6c6f676f2e737667"
         height="38" alt="AWS" title="AWS"
         data-canonical-src="https://laracasts.com/images/topics/icons/aws-logo.svg" style="max-width: 100%;">
 </x-call-to-action>
