@@ -32,7 +32,7 @@
                                     <div class="ml-12">
                                         <div class="font-semibold">NineComplex Co., Ltd</div>
                                         <div>Web Developer</div>
-                                        <div>04/2022 - Present</div>
+                                        <div>04/2022 - 12/2023</div>
                                     </div>
                                 </li>
                             </ul>
