@@ -69,6 +69,12 @@ class Portfolio extends Component
                 'image' => url('/img/project8.png'),
                 'github' =>  'https://road-to-japan.vercel.app',
             ],
+            [
+                'category' => ['Nextjs', 'Tailwind'],
+                'title' => 'LiverPool FC',
+                'image' => url('/img/project9.png'),
+                'github' =>  'https://lfc-ynwa.vercel.app',
+            ],
         ];
 
         $this->tabs = array_unique(Arr::flatten(Arr::pluck($this->items, 'category')));
