@@ -15,24 +15,22 @@
                             <ul>
                                 <li class="mb-12 flex items-center">
                                     <div class="flex-shrink-0">
-                                        <img src="{{ url('/img/company1.jpg') }}" alt="Company 1 Logo"
-                                            class="w-16 h-16 rounded-full">
-                                    </div>
-                                    <div class="ml-12">
-                                        <div class="font-semibold">MetaTeam Myanmar Co., Ltd</div>
-                                        <div>Web Developer</div>
-                                        <div>05/2021 - 10/2021</div>
-                                    </div>
-                                </li>
-                                <li class="mb-4 flex items-center">
-                                    <div class="flex-shrink-0">
                                         <img src="{{ url('/img/company2.jpg') }}" alt="Company 2 Logo"
                                             class="w-16 h-16 rounded-full">
                                     </div>
                                     <div class="ml-12">
                                         <div class="font-semibold">NineComplex Co., Ltd</div>
-                                        <div>Web Developer</div>
+                                        <div>Junior Web Developer</div>
                                         <div>04/2022 - 12/2023</div>
+                                    </div>
+                                </li>
+                                <li class="mb-4 flex items-center">
+                                    <div class="flex-shrink-0">
+                                        <div class="w-16 h-16 rounded-full bg-white"></div>
+                                    </div>
+                                    <div class="ml-12">
+                                        <div>Freelance Full Stack Developer</div>
+                                        <div>01/2023 - Present</div>
                                     </div>
                                 </li>
                             </ul>
@@ -52,9 +50,10 @@
                         About Me
                     </h2>
                     <p class="text-base dark:text-gray-400 mb-8">
-                        I'm from Yangon and UCSY fianl year student. I have over 2+ years experience in developing
-                        web applications using PHP, Laravel and React. I am also
-                        interested in learning new technologies and frameworks.
+                        I'm a passionate full-stack developer specializing in web development, with expertise in PHP,
+                        Laravel, React, Nodejs, and Linux to develop customized software solutions for a variety of
+                        different businesses. In addition to my programming skills, I've been practicing mindfulness
+                        regularly, which has helped me improve my concentration and problem-solving skills.
                     </p>
                 </div>
             </div>

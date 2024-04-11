@@ -1,82 +1,22 @@
 <div {{ $attributes->merge(['class' => 'flex items-center']) }}>
-    <a href="https://www.facebook.com/profile.php?id=100078259992217" target="_blank"
-        class="
-         w-10
-         h-10
-         flex
-         items-center
-         justify-center
-         rounded-full
-         border
-         border-dark
-         border-2
-         dark:border-white
-         text-dark
-         dark:text-white
-         hover:text-white
-         hover:bg-primary
-         hover:border-primary
-         hover:dark:border-primary
-         mr-3
-         sm:mr-4
-         lg:mr-3
-         xl:mr-4
-    ">
-        <svg width="10" height="18" viewBox="0 0 8 16" class="fill-current">
+    <a href="https://www.linkedin.com/in/aunghtetmyatoo/" target="_blank"
+        class="w-10 h-10 flex items-center justify-center rounded-full border-dark border-2 dark:border-white text-dark dark:text-white hover:text-white hover:bg-primary hover:border-primary hover:dark:border-primary mr-3 sm:mr-4 lg:mr-3 xl:mr-4">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="20" height="20" class="fill-current">
             <path
-                d="M7.43902 6.4H6.19918H5.75639V5.88387V4.28387V3.76774H6.19918H7.12906C7.3726 3.76774 7.57186 3.56129 7.57186 3.25161V0.516129C7.57186 0.232258 7.39474 0 7.12906 0H5.51285C3.76379 0 2.54609 1.44516 2.54609 3.5871V5.83226V6.34839H2.10329H0.597778C0.287819 6.34839 0 6.63226 0 7.04516V8.90323C0 9.26452 0.243539 9.6 0.597778 9.6H2.05902H2.50181V10.1161V15.3032C2.50181 15.6645 2.74535 16 3.09959 16H5.18075C5.31359 16 5.42429 15.9226 5.51285 15.8194C5.60141 15.7161 5.66783 15.5355 5.66783 15.3806V10.1419V9.62581H6.13276H7.12906C7.41688 9.62581 7.63828 9.41935 7.68256 9.10968V9.08387V9.05806L7.99252 7.27742C8.01466 7.09677 7.99252 6.89032 7.85968 6.68387C7.8154 6.55484 7.61614 6.42581 7.43902 6.4Z" />
+                d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z" />
         </svg>
     </a>
-    <a href="https://twitter.com/AungHtetMyatOoo" target="_blank"
-        class="
-       w-10
-       h-10
-       flex
-       items-center
-       justify-center
-       rounded-full
-       border
-       border-dark
-       border-2
-       dark:border-white
-       text-dark
-       dark:text-white
-       hover:text-white
-       hover:bg-primary
-       hover:border-primary
-       hover:dark:border-primary
-       mr-3
-       sm:mr-4
-       lg:mr-3
-       xl:mr-4
-    ">
-        <svg width="18" height="14" viewBox="0 0 16 12" class="fill-current">
+    <a href="https://gitlab.com/aunghtetmyatoo" target="_blank"
+        class="w-10 h-10 flex items-center justify-center rounded-full border-dark border-2 dark:border-white text-dark dark:text-white hover:text-white hover:bg-primary hover:border-primary hover:dark:border-primary mr-3 sm:mr-4 lg:mr-3 xl:mr-4">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="20" height="20"
+            class="fill-current">
             <path
-                d="M14.2194 2.06654L15.2 0.939335C15.4839 0.634051 15.5613 0.399217 15.5871 0.2818C14.8129 0.704501 14.0903 0.845401 13.6258 0.845401H13.4452L13.3419 0.751468C12.7226 0.258317 11.9484 0 11.1226 0C9.31613 0 7.89677 1.36204 7.89677 2.93542C7.89677 3.02935 7.89677 3.17025 7.92258 3.26419L8 3.73386L7.45806 3.71037C4.15484 3.61644 1.44516 1.03327 1.00645 0.587084C0.283871 1.76125 0.696774 2.88845 1.13548 3.59296L2.0129 4.90802L0.619355 4.20352C0.645161 5.18982 1.05806 5.96477 1.85806 6.52838L2.55484 6.99804L1.85806 7.25636C2.29677 8.45401 3.27742 8.94716 4 9.13503L4.95484 9.36986L4.05161 9.93346C2.60645 10.8728 0.8 10.8024 0 10.7319C1.62581 11.7652 3.56129 12 4.90323 12C5.90968 12 6.65806 11.9061 6.83871 11.8356C14.0645 10.2857 14.4 4.41487 14.4 3.2407V3.07632L14.5548 2.98239C15.4323 2.23092 15.7935 1.8317 16 1.59687C15.9226 1.62035 15.8194 1.66732 15.7161 1.6908L14.2194 2.06654Z" />
+                d="M503.5 204.6L502.8 202.8L433.1 21C431.7 17.5 429.2 14.4 425.9 12.4C423.5 10.8 420.8 9.9 417.9 9.6C415 9.3 412.2 9.7 409.5 10.7C406.8 11.7 404.4 13.3 402.4 15.5C400.5 17.6 399.1 20.1 398.3 22.9L351.3 166.9H160.8L113.7 22.9C112.9 20.1 111.5 17.6 109.6 15.5C107.6 13.4 105.2 11.7 102.5 10.7C99.9 9.7 97 9.3 94.1 9.6C91.3 9.9 88.5 10.8 86.1 12.4C82.8 14.4 80.3 17.5 78.9 21L9.3 202.8L8.5 204.6C-1.5 230.8-2.7 259.6 5 286.6C12.8 313.5 29.1 337.3 51.5 354.2L51.7 354.4L52.3 354.8L158.3 434.3L210.9 474L242.9 498.2C246.6 500.1 251.2 502.5 255.9 502.5C260.6 502.5 265.2 500.1 268.9 498.2L300.9 474L353.5 434.3L460.2 354.4L460.5 354.1C482.9 337.2 499.2 313.5 506.1 286.6C514.7 259.6 513.5 230.8 503.5 204.6z" />
         </svg>
     </a>
     <a href="https://github.com/aunghtetmyatoo" target="_blank"
-        class="
-       w-10
-       h-10
-       flex
-       items-center
-       justify-center
-       rounded-full
-       border border-dark
-       border-2 dark:border-white
-       text-dark
-       dark:text-white
-       hover:text-white
-       hover:bg-primary
-       hover:border-primary
-       hover:dark:border-primary
-       mr-3
-       sm:mr-4
-       lg:mr-3
-       xl:mr-4
-    ">
-        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-github"
+        class="w-10 h-10 flex items-center justify-center rounded-full border-dark border-2 dark:border-white text-dark dark:text-white hover:text-white hover:bg-primary hover:border-primary hover:dark:border-primary mr-3 sm:mr-4 lg:mr-3 xl:mr-4">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-github"
             viewBox="0 0 16 16">
             <path
                 d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z" />
