@@ -638,6 +638,9 @@ body{
 .mb-6{
   margin-bottom: 1.5rem;
 }
+.mr-4{
+  margin-right: 1rem;
+}
 .mr-3{
   margin-right: 0.75rem;
 }
@@ -1121,9 +1124,13 @@ body{
   --tw-text-opacity: 1;
   color: rgb(217 119 6 / var(--tw-text-opacity));
 }
-.text-\[\#0c7187\]{
+.text-\[\#090E34\]{
   --tw-text-opacity: 1;
-  color: rgb(12 113 135 / var(--tw-text-opacity));
+  color: rgb(9 14 52 / var(--tw-text-opacity));
+}
+.text-black{
+  --tw-text-opacity: 1;
+  color: rgb(33 43 54 / var(--tw-text-opacity));
 }
 .text-gray-800{
   --tw-text-opacity: 1;
@@ -1136,10 +1143,6 @@ body{
 .text-red-500{
   --tw-text-opacity: 1;
   color: rgb(239 68 68 / var(--tw-text-opacity));
-}
-.text-\[\#090E34\]{
-  --tw-text-opacity: 1;
-  color: rgb(9 14 52 / var(--tw-text-opacity));
 }
 .shadow-lg{
   --tw-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
