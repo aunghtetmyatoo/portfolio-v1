@@ -15,13 +15,35 @@
                             <ul>
                                 <li class="mb-12 flex items-center">
                                     <div class="flex-shrink-0">
+                                        <img src="{{ url('/img/company3.jpeg') }}" alt="Company 2 Logo"
+                                            class="w-16 h-16 rounded-full">
+                                    </div>
+                                    <div class="ml-12">
+                                        <div class="font-semibold">ConceptX International School</div>
+                                        <div>Backend Developer</div>
+                                        <div>02/2024 - Present</div>
+                                    </div>
+                                </li>
+                                <li class="mb-12 flex items-center">
+                                    <div class="flex-shrink-0">
                                         <img src="{{ url('/img/company2.jpg') }}" alt="Company 2 Logo"
                                             class="w-16 h-16 rounded-full">
                                     </div>
                                     <div class="ml-12">
                                         <div class="font-semibold">NineComplex Co., Ltd</div>
-                                        <div>Junior Web Developer</div>
+                                        <div>Full Stack Developer</div>
                                         <div>04/2022 - 12/2023</div>
+                                    </div>
+                                </li>
+                                <li class="mb-12 flex items-center">
+                                    <div class="flex-shrink-0">
+                                        <img src="{{ url('/img/company1.jpg') }}" alt="Company 2 Logo"
+                                            class="w-16 h-16 rounded-full">
+                                    </div>
+                                    <div class="ml-12">
+                                        <div class="font-semibold">MetaTeam Myanmar Co., Ltd</div>
+                                        <div>Junior Developer</div>
+                                        <div>05/2021 - 01/2022</div>
                                     </div>
                                 </li>
                                 <li class="mb-4 flex items-center">

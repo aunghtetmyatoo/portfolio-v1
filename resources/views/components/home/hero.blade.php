@@ -1,6 +1,6 @@
 <!-- ====== Hero Section Start -->
 <?php
-$d1 = new DateTime('2021-10-01 00:00:00');
+$d1 = new DateTime('2021-05-01 00:00:00');
 $d2 = now();
 $interval = $d1->diff($d2);
 ?>
@@ -20,8 +20,7 @@ $interval = $d1->diff($d2);
                     </p>
                     <ul class="flex flex-wrap items-center">
                         <li>
-                            <x-button-link href="{{ url('/cv/AungHtetMyatOo.pdf') }}" variant="primary"
-                                class="rounded-lg" target="_blank">
+                            <x-button-link href="#" variant="primary" class="rounded-lg">
                                 My Resume
                             </x-button-link>
                         </li>
